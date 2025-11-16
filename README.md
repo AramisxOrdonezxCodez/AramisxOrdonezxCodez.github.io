@@ -7,9 +7,9 @@ title: Home
 
 _Computer Science Student · Software Developer · Tacoma, WA_
 
-[GitHub](https://github.com/your-username) · 
-[LinkedIn](https://www.linkedin.com/in/your-handle) · 
-[Email](mailto:[email protected])
+[GitHub](https://github.com/AramisxOrdonezxCodez) · 
+[LinkedIn](https://www.linkedin.com/in/aramis-ordonez/) · 
+[Email](mailto:[aramischavez1@gmail.com])
 
 ---
 
