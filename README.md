@@ -1,8 +1,7 @@
 
 
-# Aramis Ordonez Chavez
 
-_Computer Science Student · Software Developer · Tacoma, WA_
+_Computer Science Student · Software Engineering Intern · Tacoma, WA_
 
 [GitHub](https://github.com/AramisxOrdonezxCodez) · 
 [LinkedIn](https://www.linkedin.com/in/aramis-ordonez/) · 
@@ -12,78 +11,66 @@ _Computer Science Student · Software Developer · Tacoma, WA_
 
 ## About
 
-I’m a Computer Science student at the University of Washington Tacoma interested in
-software engineering, AI, and developer tools. I enjoy building projects that mix
-code, creativity, and real-world impact, from games and mobile apps to AI-powered
-experiments.
+I’m a Computer Science student at the University of Washington Tacoma, building experience in
+software engineering, AI, and teaching. I enjoy designing full-stack apps, Java games, and
+AI-driven projects that connect classroom concepts to real problems. Recently, I’ve been
+developing document management systems in Go, full-stack React/Node apps, and collaborating
+with teams through agile workflows and CI/CD.
 
 ---
 
 ## Skills
 
-**Languages:** Java, Python, Go, JavaScript/TypeScript, SQL  
-**Frameworks & Tools:** React, React Native, Node.js/Express, Jekyll, Git/GitHub, Supabase  
+**Languages & Frameworks**  
+Java · Python · HTML/CSS · JavaScript · React · React Native · Node.js · Express.js · Expo · Go  
+**Libraries & Tools**  
+Git · npm · CI/CD · Cloud · Pandas · NumPy · Scikit-learn · Cursor · Jira · Supabase
 **Concepts:** Object-oriented design, data structures & algorithms, REST APIs, testing (JUnit)
 
 ---
 
 ## Projects
 
-### Avalanche Rush – 2D Java Game
-A desktop game where the player dodges falling obstacles to survive and score points.
 
-- Built with Java and Swing, using object-oriented design (Player, ObstacleManager, etc.)
-- Implemented collision detection, score tracking, and a persistent leaderboard
-- Practiced clean architecture and separation of concerns
+### Naruto Character Database  
+_JavaScript · React.js · Node.js · Express.js · MySQL · Feb 2025_
 
-### Naruto Character Database – Full-Stack Web App
-A character management system for Naruto fans.
+- Developed a responsive full-stack web application to manage and display Naruto character information  
+- Designed a scalable MySQL schema for storing character details (names, villages, ranks, abilities)  
+- Implemented RESTful API endpoints with Express.js to support full CRUD operations and seamless data management
 
-- Frontend in React; backend in Node.js/Express with a MySQL database  
-- Implemented search and filtering for characters by clan, chakra type, and more  
-- Designed REST routes for creating, reading, updating, and deleting characters
+### Avalanche Rush  
+_Java · June 2025_
 
-### Mobile Movie App – React Native
-A mobile app to browse and save movies.
-
-- Built with React Native and Expo  
-- Backend API using Node.js/Express and a Postgres/Supabase database  
-- Implemented navigation, state management, and simple user favorites
-
+- Designed and shipped a playable 2D Java game with a team of 3 using a steady input/render loop, collision detection, and a scrolling parallax-style background to improve frame smoothness and user experience  
+- Refactored the codebase into reusable classes and helpers, reducing coupling between rendering, physics, and input  
+- Used data structures (arrays/ArrayLists, timers) and simple algorithms to spawn obstacles and compute scoring
 ---
 
 ## Experience
 
-### Teaching Assistant / Tech Program Support
-**Tech Academy & Youth Programs · 2025**
+### Software Engineering Intern  
+**Tech Startup Club** · Tacoma, WA · _Nov 2025 – Present_
 
-- Supported students learning coding, game dev, and emerging tech tools  
-- Helped debug projects and explained concepts in beginner-friendly language  
-- Encouraged inclusive, collaborative classroom environments
+- Collaborate with a small engineering team to build a document-based management system for UW Tacoma’s Seminars project  
+- Provide realistic time estimates, regular progress reports, and maintain version-controlled workflows to deliver responsive, accessible features on schedule  
+- Build backend features in Go and track them in Jira across 2-week sprints; document tasks, link PRs, and close tickets after tests pass in CI (`go test`)
+---
 
-### Prompt Engineering & AI Internship
-**Fourth Gen Labs – Spark Internship · 2025**
+### Technology Camp Assistant Instructor  
+**Tech Academy** · Seattle, WA · _Jun 2025 – Aug 2025_
 
-- Designed and tested prompts for AI assistants and creative storytelling  
-- Built an original “HiveMind” hero concept with narrative, visuals, and web content  
-- Collaborated in an async, remote environment using GitHub and project boards
+- Assisted in delivering STEM-focused classes (Programming, Web Design with HTML/CSS/JavaScript, Video Game Design) for students  
+- Troubleshot laptop and software issues to keep lessons running smoothly  
+- Maintained consistent communication with instructors and supported smooth classroom flow across multiple sites
 
 ---
 
-## Education
+### Prompt Engineer Intern  
+**Fourth Gen Labs – Spark Internship** · Parkland, WA (Hybrid) · _Jun 2025 – Aug 2025_
 
-**B.S. in Computer Science** (in progress)  
-University of Washington Tacoma
-
-- Expected graduation: 2027  
-- Relevant coursework: Programming Practicum (Java), Data Structures, Discrete Math
+- Practiced AI workflows including bias mitigation, prompt auditing, and research integrity practices  
+- Delivered an AI superhero presentation for the Spark Showcase before ~70 sponsors, educators, and community guests  
+- Demonstrated prompt-engineered storytelling, public speaking, and collaboration in a hybrid environment
 
 ---
-
-## Contact
-
-If you’d like to connect about internships, collaborations, or projects, feel free to reach out:
-
-- Email: [email protected]  
-- GitHub: https://github.com/your-username  
-- LinkedIn: https://www.linkedin.com/in/your-handle
