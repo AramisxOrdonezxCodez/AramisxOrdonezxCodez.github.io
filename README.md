@@ -7,6 +7,8 @@ _Computer Science Student · Software Engineering Intern · Tacoma, WA_
 [LinkedIn](https://www.linkedin.com/in/aramis-ordonez/) · 
 [Email](aramischavez1@gmail.com)
 
+[Download my resume (PDF)](November_Resume_3_2025__Copy_.pdf)
+
 ---
 
 ## About
