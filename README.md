@@ -1,6 +1,6 @@
 
 
-# Aramis Ordonez
+# Aramis Ordonez Chavez
 
 _Computer Science Student · Software Developer · Tacoma, WA_
 
