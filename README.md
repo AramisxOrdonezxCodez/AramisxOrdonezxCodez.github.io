@@ -44,7 +44,7 @@ _Java · June 2025_
 
 - Designed and shipped a playable 2D Java game with a team of 3 using a steady input/render loop, collision detection, and a scrolling parallax-style background to improve frame smoothness and user experience  
 - Refactored the codebase into reusable classes and helpers, reducing coupling between rendering, physics, and input  
-- Used data structures (arrays/ArrayLists, timers) and simple algorithms to spawn obstacles and compute scoring
+- Used data structures like arrays/ArrayLists, timers and simple algorithms to spawn obstacles and compute scoring
 ---
 
 ## Experience
@@ -54,7 +54,7 @@ _Java · June 2025_
 
 - Collaborate with a small engineering team to build a document-based management system for UW Tacoma’s Seminars project  
 - Provide realistic time estimates, regular progress reports, and maintain version-controlled workflows to deliver responsive, accessible features on schedule  
-- Build backend features in Go and track them in Jira across 2-week sprints; document tasks, link PRs, and close tickets after tests pass in CI (`go test`)
+- Build backend features in Go and track them in Jira across 2-week sprints; document tasks, link PRs, and close tickets after tests pass in CI.
 ---
 
 ### Technology Camp Assistant Instructor  
@@ -73,4 +73,4 @@ _Java · June 2025_
 - Delivered an AI superhero presentation for the Spark Showcase before ~70 sponsors, educators, and community guests  
 - Demonstrated prompt-engineered storytelling, public speaking, and collaboration in a hybrid environment
 
----
+
