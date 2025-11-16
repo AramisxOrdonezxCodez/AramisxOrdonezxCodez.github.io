@@ -5,7 +5,7 @@ _Computer Science Student · Software Engineering Intern · Tacoma, WA_
 
 [GitHub](https://github.com/AramisxOrdonezxCodez) · 
 [LinkedIn](https://www.linkedin.com/in/aramis-ordonez/) · 
-[Email](mailto:[aramischavez1@gmail.com])
+[Email](aramischavez1@gmail.com)
 
 ---
 
@@ -42,7 +42,7 @@ _JavaScript · React.js · Node.js · Express.js · MySQL · Feb 2025_
 ### Avalanche Rush  
 _Java · June 2025_
 
-- Designed and shipped a playable 2D Java game with a team of 3 using a steady input/render loop, collision detection, and a scrolling parallax-style background to improve frame smoothness and user experience  
+- Collaborated on a team and designed a playable 2D Java game with a team of 3 using a steady input/render loop, collision detection, and a scrolling parallax-style background to improve frame smoothness and user experience  
 - Refactored the codebase into reusable classes and helpers, reducing coupling between rendering, physics, and input  
 
 ---
