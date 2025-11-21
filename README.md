@@ -13,11 +13,7 @@ _Computer Science Student · Software Engineering Intern · Tacoma, WA_
 
 ## About
 
-I’m a Computer Science student at the University of Washington Tacoma, building experience in
-software engineering, AI, and teaching. I enjoy designing full-stack apps, Java games, and
-AI-driven projects that connect classroom concepts to real problems. Recently, I’ve been
-developing document management systems in Go, full-stack React/Node apps, and collaborating
-with teams through agile workflows and CI/CD.
+I’m Aramis Ordonez Chavez, a Computer Science student at the University of Washington Tacoma with a minor in Business Data Analytics who loves building reliable backend systems. I hava projects that focuses on Go and Node/Express services with PostgreSQL/Supabase, where I design APIs, model data, and keep request flows predictable. I care a lot about clean architecture, good logging and error handling, and writing server-side code that’s easy for other developers to understand and extend.
 
 ---
 
