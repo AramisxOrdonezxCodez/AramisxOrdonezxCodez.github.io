@@ -42,7 +42,7 @@ _Java · June 2025_
 
 - Collaborated on a team and designed a playable 2D Java game with a team of 3 using a steady input/render loop, collision detection, and a scrolling parallax-style background to improve frame smoothness and user experience  
 - Refactored the codebase into reusable classes and helpers, reducing coupling between rendering, physics, and input
-  <img width="998" height="784" alt="Screenshot 2025-12-01 193826" src="https://github.com/user-attachments/assets/15c27b46-257f-43d8-9cd7-450e768b3599" />
+  <img width="500" height="400" alt="Screenshot 2025-12-01 193826" src="https://github.com/user-attachments/assets/15c27b46-257f-43d8-9cd7-450e768b3599" />
 
 
 ---
