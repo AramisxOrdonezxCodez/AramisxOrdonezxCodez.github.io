@@ -37,6 +37,14 @@ _JavaScript · React.js · Node.js · Express.js · MySQL · Feb 2025_
 - Designed a scalable MySQL schema for storing character details (names, villages, ranks, abilities)  
 - Implemented RESTful API endpoints with Express.js to support full CRUD operations and seamless data management
 
+  <img
+  width="300"
+  height="240"
+  alt="Screenshot 2025-12-01 203027"
+  src="https://github.com/user-attachments/assets/5afb0527-22da-47ee-a312-d8ce93b6bdfd"
+/>
+
+
 ### Avalanche Rush  
 _Java · June 2025_
 
