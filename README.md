@@ -20,9 +20,10 @@ I’m Aramis Ordonez Chavez, a Computer Science student at the University of Was
 ## Skills
 
 **Languages & Frameworks**  
-Java · Python · HTML/CSS · JavaScript · React · React Native · Node.js · Express.js · Expo · Go  
+Java, Python, HTML/CSS, JavaScript, React,TypeScipt Node.js, Express.js,Next.js,
+Go,MySQL
 **Libraries & Tools**  
-Git · npm · CI/CD · Cloud · Pandas · NumPy · Scikit-learn · Cursor · Jira · Supabase
+Git, npm,CI/CD, Cloud, Pandas, NumPy, Scikit-learn, Cursor,Jira, Supabase,Microsoft Office Suite
 **Concepts:** Object-oriented design, data structures & algorithms, REST APIs, testing (JUnit)
 
 ---
